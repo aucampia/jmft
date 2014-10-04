@@ -1,0 +1,11 @@
+= jmft: The Java Manifest Tool
+
+...
+
+== TODO
+
+* Implement Queries
+* Support OSGi headers
+* Output JSON
+* Output XML
+* Output CSV

@@ -1,4 +1,0 @@
-jmft
-====
-
-java manifest tool
